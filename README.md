@@ -8,7 +8,12 @@ Pawtiva is an offline-first Android habit tracker with a virtual pet companion. 
 habits, earn XP and PawCoins, level up together with a kitten or a puppy, and dress your friend up
 with cosmetic accessories. No account, no ads, no subscriptions — everything stays on your device.
 
-▶️ **Promo video:** [English](store/video/pawtiva-promo-en.mp4) · [Türkçe](store/video/pawtiva-tanitim.mp4)
+▶️ **Promo video:** 
+
+
+https://github.com/user-attachments/assets/d0c007e0-fff9-48a1-85d3-d58c57544cb7
+
+
 
 ## Features
 
