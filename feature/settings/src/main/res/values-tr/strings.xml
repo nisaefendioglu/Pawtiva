@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_back">Geri</string>
+    <string name="settings_save">Kaydet</string>
+    <string name="settings_cancel">Vazgeç</string>
+    <string name="settings_close">Kapat</string>
+    <string name="settings_continue">Devam</string>
+    <string name="settings_ok">Tamam</string>
+
+    <string name="settings_section_profile">Profil</string>
+    <string name="settings_profile_level">Seviye %1$d</string>
+    <string name="settings_profile_xp">%1$d / %2$d XP</string>
+    <string name="settings_profile_coins">%1$s PawCoins</string>
+    <string name="settings_profile_xp_description">Seviye %1$d, %3$d XP\'nin %2$d kadarı</string>
+
+    <string name="settings_section_general">Genel</string>
+    <string name="settings_language">Dil</string>
+    <string name="settings_language_system">Cihaz dili</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_system">Cihazla aynı</string>
+    <string name="settings_theme_light">Açık</string>
+    <string name="settings_theme_dark">Koyu</string>
+    <string name="settings_dynamic_color">Dinamik renkler</string>
+    <string name="settings_dynamic_color_description">Duvar kâğıdındaki renkleri kullan</string>
+    <string name="settings_date_format">Tarih biçimi</string>
+    <string name="settings_date_format_system">Cihaz biçimi (%1$s)</string>
+
+    <string name="settings_section_pet">Yol arkadaşın</string>
+    <string name="settings_change_pet">Yol arkadaşını değiştir</string>
+    <string name="settings_pet_change_info">Alışkanlıkların, XP\'n, seviyen, istatistiklerin, satın aldıkların, envanterin ve başarımların olduğu gibi kalır.</string>
+    <string name="settings_pet_change_confirm">Değiştir</string>
+    <string name="settings_pet_name">İsim</string>
+    <string name="settings_rename_title">Yol arkadaşının adını değiştir</string>
+    <string name="settings_rename_hint">Boş bırakırsan adı %1$s olur</string>
+    <string name="settings_rename_counter">%1$d/%2$d</string>
+    <string name="settings_reduce_animations">Daha sakin maskot animasyonları</string>
+    <string name="settings_reduce_animations_description">Bekleme ve kutlama hareketlerini kapatır</string>
+
+    <string name="settings_section_notifications">Bildirimler</string>
+    <string name="settings_daily_reminder">Günlük hatırlatma</string>
+    <string name="settings_daily_reminder_description">Günde bir nazik hatırlatma</string>
+    <string name="settings_reminder_time">Hatırlatma saati</string>
+    <string name="settings_reminder_rationale_title">Hatırlatmalara izin verilsin mi?</string>
+    <string name="settings_reminder_rationale_body">Günlük hatırlatmanı gönderebilmek için Android bildirim izni ister. Pawtiva günde en fazla bir bildirim gönderir, başka hiçbir şey göndermez.</string>
+    <string name="settings_reminder_denied_title">Bildirimler kapalı</string>
+    <string name="settings_reminder_denied_body">Bildirimler engelliyken hatırlatma gösterilemez. Sistem ayarlarından izin verebilirsin.</string>
+    <string name="settings_open_system_settings">Ayarları aç</string>
+    <string name="settings_time_picker_title">Saat seç</string>
+
+    <string name="settings_section_data">Veri ve gizlilik</string>
+    <string name="settings_export">Verilerimi dışa aktar</string>
+    <string name="settings_export_description">Her şeyi JSON dosyası olarak kaydet</string>
+    <string name="settings_export_success">Verilerin dışa aktarıldı.</string>
+    <string name="settings_export_failed">Dışa aktarma başarısız oldu. Lütfen tekrar dene.</string>
+    <string name="settings_reset">Tüm verileri sıfırla</string>
+    <string name="settings_reset_description">Alışkanlıkları, ilerlemeyi, satın alımları ve ayarları sil</string>
+    <string name="settings_reset_title">Tüm veriler sıfırlansın mı?</string>
+    <string name="settings_reset_body">Bu işlem alışkanlıklarını, geçmişini, XP\'ni, seviyeni, PawCoins\'lerini, aksesuarlarını, başarımlarını ve ayarlarını bu cihazdan siler. Geri alınamaz. Önce verilerini dışa aktarmak isteyebilirsin.</string>
+    <string name="settings_reset_final_title">Emin misin?</string>
+    <string name="settings_reset_final_body">Yol arkadaşın 1. seviyeden yeniden başlayacak.</string>
+    <string name="settings_reset_confirm">Her şeyi sil</string>
+    <string name="settings_reset_done">Tüm veriler sıfırlandı.</string>
+    <string name="settings_privacy">Gizlilik</string>
+    <string name="settings_privacy_body">Pawtiva tamamen çevrimdışı çalışır. Alışkanlıkların, ilerlemen ve ayarların yalnızca bu cihazda saklanır. Hesap, sunucu, reklam, analiz veya üçüncü taraf izleme SDK\'sı yoktur.\n\nAndroid yedeklemesi açıksa verilerin kendi Google hesabının yedeğine dahil edilir. Bunu telefonunun sistem ayarlarından kapatabilirsin.\n\nVerilerini bu ekrandan istediğin zaman dışa aktarabilir veya tamamen silebilirsin.</string>
+    <string name="settings_offline">Çevrimdışı saklama</string>
+    <string name="settings_offline_body">Her şey internet bağlantısı olmadan çalışır. Pawtiva internet kullanmaz ve verilerin hiçbir yere gönderilmez.</string>
+
+    <string name="settings_section_about">Hakkında</string>
+    <string name="settings_version">Sürüm</string>
+    <string name="settings_developer">Geliştirici</string>
+    <string name="settings_about_description">Pawtiva, seninle birlikte büyüyen küçük bir dostla günlük alışkanlıklarını keyifli bir maceraya dönüştürür.</string>
+    <string name="settings_feedback">Geri bildirim gönder</string>
+    <string name="settings_feedback_subject">Pawtiva geri bildirim</string>
+    <string name="settings_no_email_app">E-posta uygulaması bulunamadı.</string>
+</resources>

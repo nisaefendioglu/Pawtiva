@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stats_title">İstatistikler</string>
+    <string name="stats_subtitle">Yalnızca kaydettiklerinden hesaplanır.</string>
+    <string name="stats_empty_title">Henüz istatistik yok</string>
+    <string name="stats_empty_message">İlk alışkanlığını tamamladığında ilerlemen burada görünecek.</string>
+
+    <string name="stats_total_completions">Tamamlanan alışkanlık</string>
+    <string name="stats_total_xp">Toplam XP</string>
+    <string name="stats_level">Seviye</string>
+    <string name="stats_total_coins">Kazanılan PawCoins</string>
+
+    <string name="stats_today_title">Bugün</string>
+    <plurals name="stats_today_summary">
+        <item quantity="one">%2$d alışkanlıktan %1$d tanesi tamamlandı</item>
+        <item quantity="other">%2$d alışkanlıktan %1$d tanesi tamamlandı</item>
+    </plurals>
+    <string name="stats_today_no_habits">Bugün aktif alışkanlık yok.</string>
+    <plurals name="stats_current_streak">
+        <item quantity="one">Güncel seri: %1$d gün</item>
+        <item quantity="other">Güncel seri: %1$d gün</item>
+    </plurals>
+    <plurals name="stats_longest_streak">
+        <item quantity="one">En uzun seri: %1$d gün</item>
+        <item quantity="other">En uzun seri: %1$d gün</item>
+    </plurals>
+
+    <string name="stats_week_title">Son 7 gün</string>
+    <plurals name="stats_last_30">
+        <item quantity="one">Son 30 günde %1$d tamamlama</item>
+        <item quantity="other">Son 30 günde %1$d tamamlama</item>
+    </plurals>
+    <plurals name="stats_day_description">
+        <item quantity="one">%1$s: %2$d tamamlama</item>
+        <item quantity="other">%1$s: %2$d tamamlama</item>
+    </plurals>
+    <string name="stats_today_marker">bugün</string>
+
+    <string name="stats_month_title">Bu ay</string>
+
+    <string name="stats_history_title">Son etkinlikler</string>
+    <string name="stats_history_empty">Tamamlanan alışkanlıklar burada listelenir.</string>
+
+    <string name="stats_achievements_title">Başarımlar · %1$d/%2$d</string>
+    <string name="stats_achievement_unlocked_on">Kazanıldı: %1$s</string>
+    <string name="stats_achievement_progress">İlerleme: %1$s</string>
+
+    <string name="achievement_first_step">İlk Adım</string>
+    <string name="achievement_first_step_description">İlk alışkanlığını tamamla.</string>
+    <string name="achievement_beginner">Başlangıç</string>
+    <string name="achievement_beginner_description">10 alışkanlık tamamla.</string>
+    <string name="achievement_consistency">İstikrar</string>
+    <string name="achievement_consistency_description">7 gün boyunca alışkanlıklarını sürdür.</string>
+    <string name="achievement_determined">Kararlı</string>
+    <string name="achievement_determined_description">50 alışkanlık tamamla.</string>
+    <string name="achievement_growing_together">Birlikte Büyüyoruz</string>
+    <string name="achievement_growing_together_description">Seviye 5\'e ulaş.</string>
+    <string name="achievement_first_purchase">İlk Alışveriş</string>
+    <string name="achievement_first_purchase_description">İlk aksesuarını satın al.</string>
+    <string name="achievement_perfect_day">Kusursuz Gün</string>
+    <string name="achievement_perfect_day_description">Aktif günlük alışkanlıklarının tamamını bitir.</string>
+</resources>

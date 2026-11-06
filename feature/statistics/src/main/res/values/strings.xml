@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stats_title">Statistics</string>
+    <string name="stats_subtitle">Calculated only from what you have logged.</string>
+    <string name="stats_empty_title">No statistics yet</string>
+    <string name="stats_empty_message">Complete your first habit and your progress will appear here.</string>
+
+    <string name="stats_total_completions">Habits completed</string>
+    <string name="stats_total_xp">Total XP</string>
+    <string name="stats_level">Level</string>
+    <string name="stats_total_coins">PawCoins earned</string>
+
+    <string name="stats_today_title">Today</string>
+    <plurals name="stats_today_summary">
+        <item quantity="one">%1$d of %2$d habit done</item>
+        <item quantity="other">%1$d of %2$d habits done</item>
+    </plurals>
+    <string name="stats_today_no_habits">No active habits today.</string>
+    <plurals name="stats_current_streak">
+        <item quantity="one">Current streak: %1$d day</item>
+        <item quantity="other">Current streak: %1$d days</item>
+    </plurals>
+    <plurals name="stats_longest_streak">
+        <item quantity="one">Longest streak: %1$d day</item>
+        <item quantity="other">Longest streak: %1$d days</item>
+    </plurals>
+
+    <string name="stats_week_title">Last 7 days</string>
+    <plurals name="stats_last_30">
+        <item quantity="one">%1$d completion in the last 30 days</item>
+        <item quantity="other">%1$d completions in the last 30 days</item>
+    </plurals>
+    <plurals name="stats_day_description">
+        <item quantity="one">%1$s: %2$d completion</item>
+        <item quantity="other">%1$s: %2$d completions</item>
+    </plurals>
+    <string name="stats_today_marker">today</string>
+
+    <string name="stats_month_title">This month</string>
+
+    <string name="stats_history_title">Recent activity</string>
+    <string name="stats_history_empty">Completed habits will be listed here.</string>
+
+    <string name="stats_achievements_title">Achievements · %1$d/%2$d</string>
+    <string name="stats_achievement_unlocked_on">Unlocked on %1$s</string>
+    <string name="stats_achievement_progress">Progress: %1$s</string>
+
+    <string name="achievement_first_step">First Step</string>
+    <string name="achievement_first_step_description">Complete your first habit.</string>
+    <string name="achievement_beginner">Getting Started</string>
+    <string name="achievement_beginner_description">Complete 10 habits.</string>
+    <string name="achievement_consistency">Consistency</string>
+    <string name="achievement_consistency_description">Keep your habits going 7 days in a row.</string>
+    <string name="achievement_determined">Determined</string>
+    <string name="achievement_determined_description">Complete 50 habits.</string>
+    <string name="achievement_growing_together">Growing Together</string>
+    <string name="achievement_growing_together_description">Reach level 5.</string>
+    <string name="achievement_first_purchase">First Purchase</string>
+    <string name="achievement_first_purchase_description">Buy your first accessory.</string>
+    <string name="achievement_perfect_day">Perfect Day</string>
+    <string name="achievement_perfect_day_description">Finish all of your active habits in one day.</string>
+</resources>

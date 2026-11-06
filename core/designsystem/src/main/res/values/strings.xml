@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pawtiva_loading">Loading…</string>
+    <string name="pawtiva_error_title">Something went wrong</string>
+    <string name="pawtiva_retry">Try again</string>
+    <string name="pawtiva_daily_progress_title">Today\'s progress</string>
+    <string name="pawtiva_daily_progress_empty">No habits for today yet</string>
+    <plurals name="pawtiva_daily_progress_summary">
+        <item quantity="one">%1$d of %2$d habit done</item>
+        <item quantity="other">%1$d of %2$d habits done</item>
+    </plurals>
+    <string name="pawtiva_pet_cat">Kitten</string>
+    <string name="pawtiva_pet_dog">Puppy</string>
+    <string name="pawtiva_pet_default_name_cat" translatable="false">Mochi</string>
+    <string name="pawtiva_pet_default_name_dog" translatable="false">Waffle</string>
+    <string name="pawtiva_mood_happy">happy</string>
+    <string name="pawtiva_mood_excited">excited</string>
+    <string name="pawtiva_mood_normal">calm</string>
+    <string name="pawtiva_mood_sleepy">sleepy</string>
+    <string name="pawtiva_mood_celebrating">celebrating</string>
+    <string name="pawtiva_pet_content_description">%1$s the %2$s, %3$s</string>
+</resources>

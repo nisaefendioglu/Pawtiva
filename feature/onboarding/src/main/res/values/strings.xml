@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_back">Back</string>
+    <string name="onboarding_next">Continue</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_not_now">Not now</string>
+    <string name="onboarding_progress">Step %1$d of %2$d</string>
+
+    <string name="onboarding_welcome_title">Welcome to Pawtiva</string>
+    <string name="onboarding_welcome_tagline">Build your habits and grow your little friend together.</string>
+    <string name="onboarding_start">Let\'s start</string>
+
+    <string name="onboarding_intro_title">How it works</string>
+    <string name="onboarding_intro_habits_title">Small daily habits</string>
+    <string name="onboarding_intro_habits_body">Tick off what you did today. A missed day never sets you or your friend back.</string>
+    <string name="onboarding_intro_grow_title">Grow together</string>
+    <string name="onboarding_intro_grow_body">Every habit earns XP and PawCoins, and your friend levels up with you.</string>
+    <string name="onboarding_intro_style_title">Dress them up</string>
+    <string name="onboarding_intro_style_body">Spend PawCoins on cosmetic accessories in the shop. No ads, no real money.</string>
+
+    <string name="onboarding_pet_title">Choose your companion</string>
+    <string name="onboarding_pet_subtitle">You can switch later in Settings. Your progress always stays.</string>
+    <string name="onboarding_pet_cat_description">Curious and calm. Loves quiet routines and cozy wins.</string>
+    <string name="onboarding_pet_dog_description">Cheerful and loyal. Celebrates every step with you.</string>
+    <string name="onboarding_pet_selected">Selected</string>
+
+    <string name="onboarding_name_title">What should we call them?</string>
+    <string name="onboarding_name_hint">Optional. If you leave it empty, the name will be %1$s.</string>
+    <string name="onboarding_name_label">Name</string>
+    <string name="onboarding_name_counter">%1$d/%2$d</string>
+
+    <string name="onboarding_language_title">Choose a language</string>
+    <string name="onboarding_language_system">Device language</string>
+    <string name="onboarding_language_system_description">Follows your phone\'s settings</string>
+    <string name="onboarding_language_turkish" translatable="false">Türkçe</string>
+    <string name="onboarding_language_english" translatable="false">English</string>
+
+    <string name="onboarding_theme_title">Pick a look</string>
+    <string name="onboarding_theme_subtitle">The app updates right away so you can compare.</string>
+    <string name="onboarding_theme_system">Match device</string>
+    <string name="onboarding_theme_light">Light</string>
+    <string name="onboarding_theme_dark">Dark</string>
+
+    <string name="onboarding_notifications_title">Gentle reminders</string>
+    <string name="onboarding_notifications_body">Pawtiva can send one friendly reminder a day. Android needs your permission to show it. You can change this any time in Settings.</string>
+    <string name="onboarding_notifications_example">“Your little friend is waiting for today\'s adventure!”</string>
+    <string name="onboarding_notifications_allow">Allow reminders</string>
+
+    <string name="onboarding_done_title">You\'re all set!</string>
+    <string name="onboarding_done_body">%1$s is ready to grow with you.</string>
+    <string name="onboarding_done_button">Go to home</string>
+    <string name="onboarding_first_habit_title">Your first habit</string>
+    <string name="onboarding_first_habit_subtitle">Optional. Pick something small you can do today. You can add more later.</string>
+    <string name="onboarding_first_habit_label">Habit name</string>
+    <string name="onboarding_first_habit_suggestions">Ideas to start with</string>
+    <string name="onboarding_first_habit_suggestion_water">Drink a glass of water</string>
+    <string name="onboarding_first_habit_suggestion_walk">10-minute walk</string>
+    <string name="onboarding_first_habit_suggestion_read">Read 10 pages</string>
+    <string name="onboarding_first_habit_suggestion_stretch">Stretch for 5 minutes</string>
+    <string name="onboarding_first_habit_create">Create habit</string>
+    <string name="onboarding_first_habit_failed">Couldn\'t save the habit. Please try again.</string>
+</resources>

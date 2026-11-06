@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shop_title">Market</string>
+    <string name="shop_subtitle">PawCoins\'ini kozmetik aksesuarlara harca. Gerçek parayla satın alma yok.</string>
+    <string name="shop_preview_title">Ön izleme</string>
+    <string name="shop_preview_hint">Denemek için bir ürüne dokun.</string>
+    <string name="shop_preview_trying">Deneniyor: %1$s</string>
+    <string name="shop_preview_clear">Ön izlemeyi temizle</string>
+
+    <string name="shop_filter_all">Tümü</string>
+    <string name="shop_filter_owned">Sahip olduklarım</string>
+    <string name="shop_category_hats">Şapkalar</string>
+    <string name="shop_category_glasses">Gözlükler</string>
+    <string name="shop_category_headphones">Kulaklıklar</string>
+    <string name="shop_category_clothes">Kıyafetler</string>
+    <string name="shop_category_neck">Boyun aksesuarları</string>
+    <string name="shop_category_special">Özel ürünler</string>
+
+    <string name="shop_item_basic_cap">Klasik Şapka</string>
+    <string name="shop_item_basic_cap_description">Güneşli yürüyüşler için sportif bir şapka.</string>
+    <string name="shop_item_round_glasses">Yuvarlak Gözlük</string>
+    <string name="shop_item_round_glasses_description">Düşünceli, kitap kurdu bir görünüm için.</string>
+    <string name="shop_item_wireless_headphones">Kablosuz Kulaklık</string>
+    <string name="shop_item_wireless_headphones_description">Odaklanma zamanı için yumuşak lavanta bir kulaklık.</string>
+    <string name="shop_item_royal_crown">Kraliyet Tacı</string>
+    <string name="shop_item_royal_crown_description">Alışkanlıkların gerçek hükümdarına altın bir taç.</string>
+    <string name="shop_item_winter_scarf">Kışlık Atkı</string>
+    <string name="shop_item_winter_scarf_description">Serin günler için sıcacık çizgili bir atkı.</string>
+    <string name="shop_item_flower_clip">Çiçek Tokası</string>
+    <string name="shop_item_flower_clip_description">Günü aydınlatan minik bir çiçek.</string>
+
+    <plurals name="shop_price_coins">
+        <item quantity="one">%1$s PawCoins</item>
+        <item quantity="other">%1$s PawCoins</item>
+    </plurals>
+    <plurals name="shop_missing_coins">
+        <item quantity="one">%1$s PawCoins daha gerekiyor.</item>
+        <item quantity="other">%1$s PawCoins daha gerekiyor.</item>
+    </plurals>
+    <string name="shop_badge_owned">Sende</string>
+    <string name="shop_badge_wearing">Takılı</string>
+    <string name="shop_status_level_locked">Seviye %1$d olunca açılır.</string>
+    <string name="shop_status_not_fit">%1$s için uygun değil. Envanterinde kalmaya devam eder.</string>
+    <string name="shop_status_wearing">%1$s bunu takıyor.</string>
+    <string name="shop_action_buy">Satın al</string>
+    <string name="shop_action_wear">Tak</string>
+    <string name="shop_action_take_off">Çıkar</string>
+
+    <string name="shop_confirm_title">%1$s satın alınsın mı?</string>
+    <string name="shop_confirm_price">Fiyat: %1$s</string>
+    <string name="shop_confirm_balance_after">Kalan bakiye: %1$s</string>
+    <string name="shop_confirm_buy">Satın al</string>
+    <string name="shop_confirm_cancel">Vazgeç</string>
+
+    <string name="shop_message_purchased">%1$s artık senin!</string>
+    <string name="shop_message_wear_action">Tak</string>
+    <string name="shop_message_already_owned">Bu ürüne zaten sahipsin.</string>
+    <string name="shop_message_level_locked">Bu ürün seviye %1$d olunca açılır.</string>
+    <string name="shop_message_unknown">Bu ürün artık mevcut değil.</string>
+    <string name="shop_message_not_owned">Takmadan önce bu ürünü satın almalısın.</string>
+    <string name="shop_message_not_fit">Bu ürün şu anki dostuna uygun değil.</string>
+
+    <string name="shop_owned_empty_title">Henüz bir şey yok</string>
+    <string name="shop_owned_empty_message">Satın aldığın ürünler burada görünür.</string>
+    <string name="shop_pet_preview_description">Seçili aksesuarlarla %1$s</string>
+    <string name="shop_balance_pill">%1$s PawCoins</string>
+    <string name="shop_level_pill">Seviye %1$d</string>
+</resources>

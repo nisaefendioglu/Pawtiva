@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pawtiva_loading">Yükleniyor…</string>
+    <string name="pawtiva_error_title">Bir şeyler ters gitti</string>
+    <string name="pawtiva_retry">Tekrar dene</string>
+    <string name="pawtiva_daily_progress_title">Bugünkü ilerleme</string>
+    <string name="pawtiva_daily_progress_empty">Bugün için henüz alışkanlık yok</string>
+    <plurals name="pawtiva_daily_progress_summary">
+        <item quantity="one">%2$d alışkanlıktan %1$d tanesi tamamlandı</item>
+        <item quantity="other">%2$d alışkanlıktan %1$d tanesi tamamlandı</item>
+    </plurals>
+    <string name="pawtiva_pet_cat">Minik Kedi</string>
+    <string name="pawtiva_pet_dog">Minik Köpek</string>
+    <string name="pawtiva_mood_happy">mutlu</string>
+    <string name="pawtiva_mood_excited">heyecanlı</string>
+    <string name="pawtiva_mood_normal">sakin</string>
+    <string name="pawtiva_mood_sleepy">uykulu</string>
+    <string name="pawtiva_mood_celebrating">kutlama yapıyor</string>
+    <string name="pawtiva_pet_content_description">%1$s, %2$s, %3$s</string>
+</resources>

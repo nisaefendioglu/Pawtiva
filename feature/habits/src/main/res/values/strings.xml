@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="habits_title">My habits</string>
+    <string name="habits_add">Add habit</string>
+    <string name="habits_delete">Delete</string>
+    <string name="habits_cancel">Cancel</string>
+    <string name="habits_load_error">Couldn\'t load your habits.</string>
+    <string name="habits_empty_title">No habits yet</string>
+    <string name="habits_empty_message">Start with something small, like a glass of water in the morning.</string>
+    <string name="habits_delete_title">Delete “%1$s”?</string>
+    <string name="habits_delete_message">It will disappear from your lists. Your past completions, XP, level and PawCoins stay exactly as they are.</string>
+    <string name="habits_delete_confirm">Delete</string>
+
+    <string name="habit_editor_title_new">New habit</string>
+    <string name="habit_editor_title_edit">Edit habit</string>
+    <string name="habit_editor_close">Close</string>
+    <string name="habit_editor_name">Habit name</string>
+    <string name="habit_editor_name_blank">Please give your habit a name.</string>
+    <string name="habit_editor_name_too_long">Keep the name under %1$d characters.</string>
+    <string name="habit_editor_description">Description (optional)</string>
+    <string name="habit_editor_description_hint">e.g. right after breakfast</string>
+    <string name="habit_editor_icon">Icon</string>
+    <string name="habit_editor_icon_option">Icon</string>
+    <string name="habit_editor_color">Color</string>
+    <string name="habit_editor_save">Save</string>
+    <string name="habit_editor_save_failed">Couldn\'t save. Please try again.</string>
+    <string name="habit_editor_not_found">This habit no longer exists.</string>
+
+    <string name="habit_color_lavender">Lavender</string>
+    <string name="habit_color_mint">Mint</string>
+    <string name="habit_color_peach">Peach</string>
+    <string name="habit_color_pink">Pink</string>
+    <string name="habit_color_sky">Sky</string>
+    <string name="habit_color_sun">Sunny</string>
+    <string name="habits_delete_named">Delete %1$s</string>
+    <string name="habit_editor_custom_icon">Choose an emoji from your keyboard</string>
+    <string name="habit_editor_custom_icon_title">Your own emoji</string>
+    <string name="habit_editor_custom_icon_hint">Tap the emoji key on your keyboard and pick any emoji.</string>
+    <string name="habit_editor_custom_icon_label">Emoji</string>
+    <string name="habit_editor_custom_icon_error">Enter a single emoji.</string>
+    <string name="habit_editor_custom_icon_use">Use</string>
+</resources>

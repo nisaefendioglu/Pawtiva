@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_back">Geri</string>
+    <string name="onboarding_next">Devam</string>
+    <string name="onboarding_skip">Atla</string>
+    <string name="onboarding_not_now">Şimdi değil</string>
+    <string name="onboarding_progress">Adım %1$d / %2$d</string>
+
+    <string name="onboarding_welcome_title">Pawtiva\'ya hoş geldin</string>
+    <string name="onboarding_welcome_tagline">Alışkanlıklarını geliştir, küçük dostunu birlikte büyüt.</string>
+    <string name="onboarding_start">Başlayalım</string>
+
+    <string name="onboarding_intro_title">Nasıl çalışır?</string>
+    <string name="onboarding_intro_habits_title">Küçük günlük alışkanlıklar</string>
+    <string name="onboarding_intro_habits_body">Bugün yaptıklarını işaretle. Kaçırdığın bir gün ne seni ne de dostunu geriye götürür.</string>
+    <string name="onboarding_intro_grow_title">Birlikte büyüyün</string>
+    <string name="onboarding_intro_grow_body">Her alışkanlık XP ve PawCoins kazandırır, dostun da seninle birlikte seviye atlar.</string>
+    <string name="onboarding_intro_style_title">Onu süsle</string>
+    <string name="onboarding_intro_style_body">PawCoins\'lerini marketteki kozmetik aksesuarlara harca. Reklam yok, gerçek para yok.</string>
+
+    <string name="onboarding_pet_title">Yol arkadaşını seç</string>
+    <string name="onboarding_pet_subtitle">Daha sonra Ayarlar\'dan değiştirebilirsin. İlerlemen her zaman korunur.</string>
+    <string name="onboarding_pet_cat_description">Meraklı ve sakin. Sessiz rutinleri ve küçük zaferleri sever.</string>
+    <string name="onboarding_pet_dog_description">Neşeli ve sadık. Attığın her adımı seninle kutlar.</string>
+    <string name="onboarding_pet_selected">Seçildi</string>
+
+    <string name="onboarding_name_title">Ona ne isim verelim?</string>
+    <string name="onboarding_name_hint">İsteğe bağlı. Boş bırakırsan adı %1$s olur.</string>
+    <string name="onboarding_name_label">İsim</string>
+    <string name="onboarding_name_counter">%1$d/%2$d</string>
+
+    <string name="onboarding_language_title">Dil seç</string>
+    <string name="onboarding_language_system">Cihaz dili</string>
+    <string name="onboarding_language_system_description">Telefonunun ayarını takip eder</string>
+
+    <string name="onboarding_theme_title">Görünümü seç</string>
+    <string name="onboarding_theme_subtitle">Uygulama hemen güncellenir, karşılaştırabilirsin.</string>
+    <string name="onboarding_theme_system">Cihazla aynı</string>
+    <string name="onboarding_theme_light">Açık</string>
+    <string name="onboarding_theme_dark">Koyu</string>
+
+    <string name="onboarding_notifications_title">Nazik hatırlatmalar</string>
+    <string name="onboarding_notifications_body">Pawtiva günde bir kez dostça bir hatırlatma gönderebilir. Bunun için Android\'in bildirim izni gerekiyor. Bunu istediğin zaman Ayarlar\'dan değiştirebilirsin.</string>
+    <string name="onboarding_notifications_example">“Küçük dostun bugünkü macera için seni bekliyor!”</string>
+    <string name="onboarding_notifications_allow">Hatırlatmalara izin ver</string>
+
+    <string name="onboarding_done_title">Her şey hazır!</string>
+    <string name="onboarding_done_body">%1$s seninle birlikte büyümeye hazır.</string>
+    <string name="onboarding_done_button">Ana ekrana geç</string>
+    <string name="onboarding_first_habit_title">İlk alışkanlığın</string>
+    <string name="onboarding_first_habit_subtitle">İsteğe bağlı. Bugün yapabileceğin küçük bir şey seç. Daha sonra yenilerini ekleyebilirsin.</string>
+    <string name="onboarding_first_habit_label">Alışkanlık adı</string>
+    <string name="onboarding_first_habit_suggestions">Başlamak için fikirler</string>
+    <string name="onboarding_first_habit_suggestion_water">Bir bardak su iç</string>
+    <string name="onboarding_first_habit_suggestion_walk">10 dakika yürüyüş</string>
+    <string name="onboarding_first_habit_suggestion_read">10 sayfa kitap oku</string>
+    <string name="onboarding_first_habit_suggestion_stretch">5 dakika esneme</string>
+    <string name="onboarding_first_habit_create">Alışkanlığı oluştur</string>
+    <string name="onboarding_first_habit_failed">Alışkanlık kaydedilemedi. Lütfen tekrar dene.</string>
+</resources>

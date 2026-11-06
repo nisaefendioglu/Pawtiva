@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_screen_greeting_morning">Günaydın!</string>
+    <string name="home_screen_greeting_afternoon">İyi günler!</string>
+    <string name="home_screen_greeting_evening">İyi akşamlar!</string>
+    <string name="home_screen_greeting_night">İyi geceler!</string>
+    <string name="home_screen_settings">Ayarlar</string>
+    <string name="home_screen_pet_tap_label">Dostunu sev</string>
+    <string name="home_screen_mood">Ruh hâli: %1$s</string>
+    <string name="home_screen_level">Seviye %1$d</string>
+    <string name="home_screen_xp">%1$d / %2$d XP</string>
+    <string name="home_screen_xp_description">Seviye %1$d, sonraki seviye için %3$d XP\'nin %2$d kadarı tamam</string>
+    <plurals name="home_screen_coins">
+        <item quantity="one">%1$s PawCoins</item>
+        <item quantity="other">%1$s PawCoins</item>
+    </plurals>
+    <string name="home_screen_days_title">Son 7 gün</string>
+    <string name="home_screen_today">bugün</string>
+    <string name="home_screen_habits_today">Bugünün alışkanlıkları</string>
+    <string name="home_screen_habits_for_date">%1$s günü</string>
+    <string name="home_screen_past_day_note">Son 7 günün herhangi birini güncelleyebilirsin.</string>
+    <string name="home_screen_empty_title">Yolculuğun küçük bir adımla başlıyor.</string>
+    <string name="home_screen_empty_message">İlk alışkanlığını oluştur, dostun seni yüreklendirsin.</string>
+    <string name="home_screen_add_habit">Alışkanlık ekle</string>
+    <string name="home_screen_edit_habit">Alışkanlığı düzenle</string>
+    <string name="home_screen_reward_chip">+%1$d XP</string>
+    <string name="home_screen_completed">Tamamlandı</string>
+    <string name="home_screen_not_completed">Tamamlanmadı</string>
+    <string name="home_screen_reward_snackbar">+%1$d XP · +%2$d PawCoins</string>
+    <string name="home_screen_undone_snackbar">Tamamlama geri alındı</string>
+    <string name="home_screen_error_generic">Güncellenemedi. Lütfen tekrar dene.</string>
+    <string name="home_screen_load_error">Bugünün verileri yüklenemedi.</string>
+    <string name="home_screen_day_done">Bugünkü tüm alışkanlıklar tamam! %1$s kutlama yapıyor.</string>
+    <string name="home_screen_level_up_title">Seviye %1$d!</string>
+    <string name="home_screen_level_up_message">%1$s seninle birlikte büyüdü. Böyle devam!</string>
+    <string name="home_screen_level_up_button">Harika!</string>
+    <string name="home_screen_past_day_done">%1$s için tüm alışkanlıklar tamam!</string>
+    <string name="home_screen_reward_xp_only">+%1$d XP</string>
+    <string name="home_screen_reward_earned">✓ +%1$d XP kazanıldı</string>
+</resources>

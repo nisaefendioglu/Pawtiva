@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="habits_title">Alışkanlıklarım</string>
+    <string name="habits_add">Alışkanlık ekle</string>
+    <string name="habits_delete">Sil</string>
+    <string name="habits_cancel">Vazgeç</string>
+    <string name="habits_load_error">Alışkanlıkların yüklenemedi.</string>
+    <string name="habits_empty_title">Henüz alışkanlık yok</string>
+    <string name="habits_empty_message">Sabah bir bardak su gibi küçük bir şeyle başla.</string>
+    <string name="habits_delete_title">“%1$s” silinsin mi?</string>
+    <string name="habits_delete_message">Listelerinden kaldırılır. Geçmiş tamamlamaların, XP\'n, seviyen ve PawCoins\'lerin olduğu gibi kalır.</string>
+    <string name="habits_delete_confirm">Sil</string>
+
+    <string name="habit_editor_title_new">Yeni alışkanlık</string>
+    <string name="habit_editor_title_edit">Alışkanlığı düzenle</string>
+    <string name="habit_editor_close">Kapat</string>
+    <string name="habit_editor_name">Alışkanlık adı</string>
+    <string name="habit_editor_name_blank">Lütfen alışkanlığına bir ad ver.</string>
+    <string name="habit_editor_name_too_long">Ad en fazla %1$d karakter olabilir.</string>
+    <string name="habit_editor_description">Açıklama (isteğe bağlı)</string>
+    <string name="habit_editor_description_hint">ör. kahvaltıdan hemen sonra</string>
+    <string name="habit_editor_icon">İkon</string>
+    <string name="habit_editor_icon_option">İkon</string>
+    <string name="habit_editor_color">Renk</string>
+    <string name="habit_editor_save">Kaydet</string>
+    <string name="habit_editor_save_failed">Kaydedilemedi. Lütfen tekrar dene.</string>
+    <string name="habit_editor_not_found">Bu alışkanlık artık mevcut değil.</string>
+
+    <string name="habit_color_lavender">Lavanta</string>
+    <string name="habit_color_mint">Mint</string>
+    <string name="habit_color_peach">Şeftali</string>
+    <string name="habit_color_pink">Pembe</string>
+    <string name="habit_color_sky">Gök mavisi</string>
+    <string name="habit_color_sun">Güneş</string>
+    <string name="habits_delete_named">%1$s alışkanlığını sil</string>
+    <string name="habit_editor_custom_icon">Klavyeden emoji seç</string>
+    <string name="habit_editor_custom_icon_title">Kendi emojin</string>
+    <string name="habit_editor_custom_icon_hint">Klavyendeki emoji tuşuna bas ve istediğin emojiyi seç.</string>
+    <string name="habit_editor_custom_icon_label">Emoji</string>
+    <string name="habit_editor_custom_icon_error">Tek bir emoji girmelisin.</string>
+    <string name="habit_editor_custom_icon_use">Kullan</string>
+</resources>

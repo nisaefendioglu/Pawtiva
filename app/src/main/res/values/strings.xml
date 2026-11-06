@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Pawtiva</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_stats">Stats</string>
+    <string name="reminder_channel_name">Daily reminders</string>
+    <string name="reminder_channel_description">One gentle reminder a day, only if you turn it on.</string>
+    <string name="reminder_title">%1$s is waiting for you</string>
+    <string name="reminder_message_adventure">Your little friend is waiting for today\'s adventure!</string>
+    <string name="reminder_message_small_step">One small step today and %1$s is ready to celebrate with you.</string>
+    <string name="reminder_message_check_in">A quick check-in? Your habits only take a moment.</string>
+</resources>

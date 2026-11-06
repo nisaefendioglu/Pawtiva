@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shop_title">Shop</string>
+    <string name="shop_subtitle">Spend PawCoins on cosmetic accessories. No real money, ever.</string>
+    <string name="shop_preview_title">Preview</string>
+    <string name="shop_preview_hint">Tap an item to try it on.</string>
+    <string name="shop_preview_trying">Trying on: %1$s</string>
+    <string name="shop_preview_clear">Clear preview</string>
+
+    <string name="shop_filter_all">All</string>
+    <string name="shop_filter_owned">Owned</string>
+    <string name="shop_category_hats">Hats</string>
+    <string name="shop_category_glasses">Glasses</string>
+    <string name="shop_category_headphones">Headphones</string>
+    <string name="shop_category_clothes">Clothes</string>
+    <string name="shop_category_neck">Neckwear</string>
+    <string name="shop_category_special">Specials</string>
+
+    <string name="shop_item_basic_cap">Basic Cap</string>
+    <string name="shop_item_basic_cap_description">A sporty cap for sunny walks.</string>
+    <string name="shop_item_round_glasses">Round Glasses</string>
+    <string name="shop_item_round_glasses_description">For a thoughtful, bookish look.</string>
+    <string name="shop_item_wireless_headphones">Wireless Headphones</string>
+    <string name="shop_item_wireless_headphones_description">Soft lavender headphones for focus time.</string>
+    <string name="shop_item_royal_crown">Royal Crown</string>
+    <string name="shop_item_royal_crown_description">A golden crown for true habit royalty.</string>
+    <string name="shop_item_winter_scarf">Winter Scarf</string>
+    <string name="shop_item_winter_scarf_description">A cozy striped scarf for chilly days.</string>
+    <string name="shop_item_flower_clip">Flower Clip</string>
+    <string name="shop_item_flower_clip_description">A little blossom to brighten the day.</string>
+
+    <plurals name="shop_price_coins">
+        <item quantity="one">%1$s PawCoin</item>
+        <item quantity="other">%1$s PawCoins</item>
+    </plurals>
+    <plurals name="shop_missing_coins">
+        <item quantity="one">You need %1$s more PawCoin.</item>
+        <item quantity="other">You need %1$s more PawCoins.</item>
+    </plurals>
+    <string name="shop_badge_owned">Owned</string>
+    <string name="shop_badge_wearing">Wearing</string>
+    <string name="shop_status_level_locked">Unlocks at level %1$d.</string>
+    <string name="shop_status_not_fit">Doesn\'t fit %1$s. It stays in your inventory.</string>
+    <string name="shop_status_wearing">%1$s is wearing this.</string>
+    <string name="shop_action_buy">Buy</string>
+    <string name="shop_action_wear">Wear</string>
+    <string name="shop_action_take_off">Take off</string>
+
+    <string name="shop_confirm_title">Buy %1$s?</string>
+    <string name="shop_confirm_price">Price: %1$s</string>
+    <string name="shop_confirm_balance_after">Balance after: %1$s</string>
+    <string name="shop_confirm_buy">Buy</string>
+    <string name="shop_confirm_cancel">Cancel</string>
+
+    <string name="shop_message_purchased">%1$s is yours!</string>
+    <string name="shop_message_wear_action">Wear</string>
+    <string name="shop_message_already_owned">You already own this item.</string>
+    <string name="shop_message_level_locked">This item unlocks at level %1$d.</string>
+    <string name="shop_message_unknown">This item isn\'t available anymore.</string>
+    <string name="shop_message_not_owned">Buy this item before wearing it.</string>
+    <string name="shop_message_not_fit">This item doesn\'t fit your current pet.</string>
+
+    <string name="shop_owned_empty_title">Nothing here yet</string>
+    <string name="shop_owned_empty_message">Items you buy will show up here.</string>
+    <string name="shop_pet_preview_description">%1$s wearing the selected accessories</string>
+    <string name="shop_balance_pill">%1$s PawCoins</string>
+    <string name="shop_level_pill">Level %1$d</string>
+</resources>
